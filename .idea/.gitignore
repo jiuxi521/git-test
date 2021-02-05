@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/git-test.iml
+# Datasource local storage ignored files
+/../../../../../../:\CoderSoftware\Java_Code\20210122\git-test\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
